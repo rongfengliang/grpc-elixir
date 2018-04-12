@@ -1,7 +1,7 @@
 # grpc-elixir-golang
 grpc elixir golang client demo 
 
-this is the demo project [grpc-elixir](https://github.com/rongfengliang/erlangelixirdemo)
+this is the demo project [grpc-elixir-server](https://github.com/rongfengliang/gprc-elixir-server)
 golang client test
 
 ## how to run
